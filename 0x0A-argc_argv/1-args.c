@@ -1,9 +1,5 @@
-#include <stdio.h>
-		
+#include <stdio.h>		
 #include "main.h"
-		
-
-		
 /**
 		
  * main - print the number of arguments passed to the program
@@ -33,4 +29,3 @@ int main(int argc, char *argv[])
 	return (0);
 		
 }
-
